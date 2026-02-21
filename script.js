@@ -23,7 +23,7 @@ function setup() {
   // Set up the home screen
   background("lightgreen");
   text(
-    "You're trapped in a hotel! "
+    "You're trapped in a hotel! ",
     width / 2,
     height / 2 - 100
   );
